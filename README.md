@@ -10,6 +10,7 @@
 ## Day 1
 
 Test cases - png
+<p align="center"><img src="https://github.com/lilapila/testowe/blob/e6538594ad5161530801032aaa28e9fdc1387d9c/TC1.png" alt="TC1 width="80%" height="80%"></p>
 
 ## Day 2
 
