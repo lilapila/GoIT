@@ -7,10 +7,9 @@
  
 
 
-## Day 1
+## Day 1 
+[Test cases](https://github.com/lilapila/GoIT/blob/5e782501f249f67ae923bcba2396b57dbbfc80f2/Day%201.md)
 
-Test cases
-<p align="center"><img src="https://github.com/lilapila/testowe/blob/e6538594ad5161530801032aaa28e9fdc1387d9c/TC1.png" alt="TC1 width="70%" height="70%"></p>
 
 ## Day 2
 
