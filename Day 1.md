@@ -1,4 +1,4 @@
-# Day 1 of GoIT Testing Marathon
+# Day 1 of GoIT QA Marathon
 
 ## Creation of Test Cases based on specifications using <b>[TestRail](https://www.testrail.com/?utm_term=testrail&utm_campaign=gg_dg_eu1_search_brand&utm_source=google&utm_medium=cpc&utm_content=brand_exact&hsa_acc=9739162558&hsa_cam=13791072614&hsa_grp=157736310710&hsa_ad=674912748881&hsa_src=g&hsa_tgt=kwd-302379004298&hsa_kw=testrail&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAiA04arBhAkEiwAuNOsIvUVbKpdDGNWY_GaxGy8NYp0cohLBqegieCFrstQJvu3AAzhhRBvuhoCrS4QAvD_BwE)</b>
 
