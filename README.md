@@ -1,5 +1,5 @@
 # GoIT - QA marathon
-> ### 4 days of effective training 
+> ### 4 days of effective training in test case creation, test runs, and bug reporting
 > ### start - 20.11.2023 / finish - 24.11.2023
 > ## Training program
 
