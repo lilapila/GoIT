@@ -22,10 +22,10 @@
 <p align="center"><img src="https://github.com/lilapila/testowe/blob/76dba8b4580445a3cd94ecb1c7e51f624216202b/TC6.png" alt="TC6" width="60%" height="60%"></p>
 
 ## TC7
-<p align="center"><img src="https://github.com/lilapila/testowe/blob/76dba8b4580445a3cd94ecb1c7e51f624216202b/TC7.png" alt="TC7" width="40%" height="60%"></p>
+<p align="center"><img src="https://github.com/lilapila/testowe/blob/76dba8b4580445a3cd94ecb1c7e51f624216202b/TC7.png" alt="TC7" width="80%" height="80%"></p>
 
 ## TC8
-<p align="center"><img src="https://github.com/lilapila/testowe/blob/76dba8b4580445a3cd94ecb1c7e51f624216202b/TC8.png" alt="TC8" width="60%" height="60%"></p>
+<p align="center"><img src="https://github.com/lilapila/testowe/blob/76dba8b4580445a3cd94ecb1c7e51f624216202b/TC8.png" alt="TC8" width="80%" height="80%"></p>
 
 ## TC9
 <p align="center"><img src="https://github.com/lilapila/testowe/blob/76dba8b4580445a3cd94ecb1c7e51f624216202b/TC9.png" alt="TC9" width="70%" height="70%"></p>
