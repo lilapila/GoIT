@@ -4,4 +4,4 @@
 ## training program
 
 
-###### <p align="center"><a href=" https://github.com/lilapila/lilapila/blob/49fe12aaa87ccb8cc7a1a4d96ec5321dbaea9dba/program.png">Image by GoIT</a></p> 
+###### <p align="center"> <a href=" https://github.com/lilapila/lilapila/blob/49fe12aaa87ccb8cc7a1a4d96ec5321dbaea9dba/program.png"> Image by GoIT </a></p> 
