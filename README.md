@@ -7,18 +7,16 @@
  
 
 
-## Day 1 
-[Test cases](https://github.com/lilapila/GoIT/blob/5e782501f249f67ae923bcba2396b57dbbfc80f2/Day%201.md)
-
-
+## [Day 1](https://github.com/lilapila/GoIT/blob/050336a75bb9672a163ff6e4c03e2080600675d8/Day%201.md)
+             
 ## Day 2
 
 Test Run
 Test Raport
-Bugs - png
+Bugs 
 
 ## Day 3
 
-Bugs - png
+Bugs
 
 
