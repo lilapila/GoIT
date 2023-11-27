@@ -8,13 +8,17 @@
 ## Creation of Bug Reports based on Test Cases using <b>[Jira](https://www.atlassian.com/software/jira?&aceid=&adposition=&adgroup=151255109963&campaign=20389338852&creative=666706086652&device=c&keyword=jira&matchtype=e&network=g&placement=&ds_kids=p77324634991&ds_e=GOOGLE&ds_eid=700000001558501&ds_e1=GOOGLE&gad_source=1&gclid=CjwKCAiAmZGrBhAnEiwAo9qHiXcKygfzNzIU1iJX42Nxi-yrNiWPFm-LFHDXZlLiKagu7egrD6HOLxoCOsUQAvD_BwE&gclsrc=aw.ds)</b>
 
 
-### Bug1
-<p align="center"><img src="https://github.com/lilapila/testowe/blob/ba686966e92919f7a9de327ad312f1077e6d1af0/Bug1-j.png" alt="Bug1" width="70%" height="70%"></p>
+### Bug-report 1
+<p align="center"><img src="https://github.com/lilapila/testowe/blob/ba686966e92919f7a9de327ad312f1077e6d1af0/Bug1-j.png" alt="Bug1" width="60%" height="60%"></p>
 
-### Bug2
+### Bug-report 2
 <p align="center"><img src="https://github.com/lilapila/testowe/blob/ba686966e92919f7a9de327ad312f1077e6d1af0/Bug2-j.png" alt="Bug2" width="50%" height="50%"></p>
 
-### Bug3
+### Bug-report 3
 <p align="center"><img src="https://github.com/lilapila/testowe/blob/ba686966e92919f7a9de327ad312f1077e6d1af0/Bug3-j.png" alt="Bug3" width="80%" height="80%"></p>
+
+### Bug-report 4
+<p align="center"><img src=" " alt="Bug4" width="80%" height="80%"></p>
+
 
 # <p align="center">BACK TO [GoIT](https://github.com/lilapila/GoIT)</p>
