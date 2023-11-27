@@ -7,17 +7,14 @@
  
 
 
-## [Day 1](https://github.com/lilapila/GoIT/blob/fe83d3ce02df761113b3b7b87c9517ed773a7c9f/Day%201.md)
+## [Day 1- Test Cases based on specifications](https://github.com/lilapila/GoIT/blob/fe83d3ce02df761113b3b7b87c9517ed773a7c9f/Day%201.md)
 
 
-## Day 2
+## [Day 2- Test Run and Bug-reports](https://github.com/lilapila/GoIT/blob/d577925f3e064590c1b57f4999323714632913d6/Day%202.md)
 
-Test Run
-Test Raport
-Bugs 
 
-## Day 3
+## [Day 3- Bugs-reporting in the application based on user reports]( )
 
-Bugs
+
 
 
