@@ -7,7 +7,7 @@
  
 
 
-## [Day 1](https://github.com/lilapila/GoIT/blob/72208d37e6833955ad7edef7da022ac293032cfa/Day%201.md)
+## [Day 1](https://github.com/lilapila/GoIT/blob/fe83d3ce02df761113b3b7b87c9517ed773a7c9f/Day%201.md)
 
 
 ## Day 2
