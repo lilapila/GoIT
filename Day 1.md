@@ -5,16 +5,16 @@
 <p align="center"><img src="https://github.com/lilapila/testowe/blob/76dba8b4580445a3cd94ecb1c7e51f624216202b/GoIT%20test%20cases1.png" alt="TestCases" width="70%" height="70%"></p>
 
 ## TC1
-<p align="center"><img src="https://github.com/lilapila/testowe/blob/7e030185e8b0edab9d2c7c416a00631dcc54753e/TC1.png" alt="TC1 width="60%" height="70%"></p>
+<p align="center"><img src="https://github.com/lilapila/testowe/blob/7e030185e8b0edab9d2c7c416a00631dcc54753e/TC1.png" alt="TC1" width="60%" height="90%"></p>
 
 ## TC2
-<p align="center"><img src="https://github.com/lilapila/testowe/blob/7e030185e8b0edab9d2c7c416a00631dcc54753e/TC2.png" alt="TC2 width="60%" height="70%"></p>
+<p align="center"><img src="https://github.com/lilapila/testowe/blob/7e030185e8b0edab9d2c7c416a00631dcc54753e/TC2.png" alt="TC2" width="60%" height="60%"></p>
 
 ## TC3
-<p align="center"><img src="https://github.com/lilapila/testowe/blob/7e030185e8b0edab9d2c7c416a00631dcc54753e/TC3.png" alt="TC3 width="60%" height="70%"></p>
+<p align="center"><img src="https://github.com/lilapila/testowe/blob/7e030185e8b0edab9d2c7c416a00631dcc54753e/TC3.png" alt="TC3" width="60%" height="60%"></p>
                             
 ## TC4
-<p align="center"><img src="https://github.com/lilapila/testowe/blob/7e030185e8b0edab9d2c7c416a00631dcc54753e/TC4.png" alt="TC4" width="90%" height="90%"></p>
+<p align="center"><img src="https://github.com/lilapila/testowe/blob/7e030185e8b0edab9d2c7c416a00631dcc54753e/TC4.png" alt="TC4" width="60%" height="90%"></p>
 
 ## TC5
 <p align="center"><img src="https://github.com/lilapila/testowe/blob/7e030185e8b0edab9d2c7c416a00631dcc54753e/TC5.png" alt="TC5" width="90%" height="90%"></p>
