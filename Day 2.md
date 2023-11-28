@@ -30,7 +30,7 @@
 <p align="left"><img src="https://github.com/lilapila/testowe/blob/b9fa7792fce24bef93c054b7c9b68df58ea8a07d/Bug7-j.png" alt="Bug7" width="70%" height="70%"></p>
 
 ### Bug-report 8
-<p align="left"><img src="https://github.com/lilapila/testowe/blob/7f6609d592d97a98a3fc6eabea261f9b64dda1f9/Bug8-j.png" alt="Bug8" width="70%" height="70%"></p>
+<p align="left"><img src="https://github.com/lilapila/testowe/blob/9d3ac34b58b383a274732cb8d3617c5d889a91e5/Bug8-j.png" alt="Bug8" width="70%" height="70%"></p>
 
 ### Bug-report 9
 <p align="left"><img src="https://github.com/lilapila/testowe/blob/7f6609d592d97a98a3fc6eabea261f9b64dda1f9/Bug9-j.png" alt="Bug9" width="50%" height="50%"></p>
