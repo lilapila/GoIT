@@ -5,7 +5,7 @@
 
 ## Training program
 > ### ➡️[Day 1- Test Cases based on specifications.](https://github.com/lilapila/GoIT/blob/fe83d3ce02df761113b3b7b87c9517ed773a7c9f/Day%201.md)
-> ### ➡️[Day 2- Test Run and Bug-reports.](https://github.com/lilapila/GoIT/blob/d577925f3e064590c1b57f4999323714632913d6/Day%202.md)
+> ### ➡️[Day 2- Test Run and Bug-reports.](https://github.com/lilapila/GoIT/blob/ceb0706f45f3201fe6bd30fec35c58e2a6423a67/Day%202.md)
 > ### ➡️[Day 3- Reproducing user bugs and creating bug-reports of real cases.]( )
 > ### ➡️Day 4- Final webinar concerning the software testing profession.
 
