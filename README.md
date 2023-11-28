@@ -1,5 +1,5 @@
 # GoIT - QA marathon
-> ### 4 days of effective training in test case creation, test runs, and bug reporting
+> ### 4 days of lectures and effective training in test case creation, test runs, and bug reporting
 > ### start - 20.11.2023
 > ### finish - 24.11.2023
 
@@ -11,7 +11,7 @@
 
 ### ➡️[Day 3- Reproducing user bugs and creating bug-reports of real cases.]( )
 
-### ➡️Day 4- Final webinar.
+### ➡️Day 4- Final webinar concerning the software testing profession.
 
 
 
